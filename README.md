@@ -1,2 +1,6 @@
 # pack-dryps-mysql
-Pack Mysql : Mysql-async et esplugin-mysql pour fiveM pour MariaDB Latest Versions
+Alors Ce pack contient =
+- esplugin_mysql
+- Mysql_async
+Qui est modifier par mes soins pour qu'il soit compatible avec notre hébergement , pour les serveurs FiveM
+https://dryps.fr
